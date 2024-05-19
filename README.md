@@ -2,6 +2,8 @@
 
 - [x] basic api
 
+- [ ] organize better the endpoints (use some extension methods)
+
 - [ ] endpoint and use case tests
 
 - [ ] better error handling
