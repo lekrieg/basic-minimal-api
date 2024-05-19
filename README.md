@@ -2,7 +2,7 @@
 
 - [x] basic api
 
-- [ ] organize better the endpoints (use some extension methods)
+- [ ] organize the endpoints in a better way (use some extension methods)
 
 - [ ] endpoint and use case tests
 
