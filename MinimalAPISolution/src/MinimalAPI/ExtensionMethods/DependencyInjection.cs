@@ -7,7 +7,7 @@ using MinimalAPI.Mapping;
 using MinimalAPI.UseCases;
 using MinimalAPI.UseCases.Interfaces;
 
-namespace MinimalAPI.DI;
+namespace MinimalAPI.ExtensionMethods;
 
 public static class DependencyInjection
 {
