@@ -4,7 +4,9 @@
 
 - [x] organize the endpoints in a better way (use some extension methods)
 
-- [ ] endpoint and use case tests
+- [ ] endpoint tests
+
+- [x] use case tests
 
 - [ ] better error handling
 
